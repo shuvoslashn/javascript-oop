@@ -31,4 +31,11 @@ OOP makes heavy usage of classes (which are a way of creating new objects starti
 
 ### Class blue print
 
-<img src="https://i.ibb.co/hLfNH2x/code-1.png">
+<img src="https://i.ibb.co/c2XbLrY/Group-1.png">
+
+## Four Principles of OOP
+
+-   Abstraction
+-   Encapsulation
+-   Inheritance
+-   Polimorphism
